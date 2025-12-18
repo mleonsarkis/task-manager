@@ -150,7 +150,9 @@ On **Windows**, run:
 ```cmd
 mvnw.cmd spring-boot:run
 
-## Future Improvements
+---
+
+### Future Improvements
 
 This project was kept simple on purpose, but there are many possible improvements.
 
